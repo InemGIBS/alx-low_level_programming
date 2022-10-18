@@ -4,7 +4,7 @@
 
 /**
  * main - Entry point
- * Return: Always o (Success)
+ * Return: Always 0 (Success)
  */
 
 int main(void)
@@ -13,7 +13,8 @@ int main(void)
 
 	for (low = 'a'; low <= 'z'; low++)
 		putchar(low);
-		printf("\n");
-		return (0);
+
+	putchar('\n');
+	return (0);
 }
 
