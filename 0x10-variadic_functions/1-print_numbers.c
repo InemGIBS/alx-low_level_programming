@@ -3,7 +3,7 @@
 #include "variadic_functions.h"
 
 /**
- * print_numbers -Yesslasd 
+ * print_numbers -Yesslasd
  * @separator: sdkasdlas kda
  * @n: dasdasda
  *
