@@ -1,17 +1,6 @@
 #ifndef MAIN_H
 #define MAIN_H
 
-/**
- * File: main.h
- * AUth: GIBSON
- * Description: Does my stuff explained.
- * @c: Thss
- * _putchar - writes the character c to st
- * @c: The character to print
- * Return: On success 1
- * Desc: Header file containing prototypes for all functions
- */
-
 int _putchar(char c);
 unsigned int binary_to_uint(const char *b);
 void print_binary(unsigned long int n);
